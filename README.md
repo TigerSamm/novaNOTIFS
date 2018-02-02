@@ -1,2 +1,0 @@
-# novaNOTIFS
-NOVA Build Notifications
