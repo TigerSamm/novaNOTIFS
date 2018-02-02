@@ -1,8 +1,10 @@
-1 
+2
 ||| 
-NOVA's newest version: v1.0.3 is available for download.
-Please go Home->NOVA Settings (submenu)->Update
+[COLOR white][B]- WELCOME -[/B][/COLOR]
 
-We hope you enjoy the changes made.
+Welcome to NOVA's New Notification system.
+Alerts on new updates and information will pop-up regularly.
 
-- NOVA by Pangea
+Your running NOVA [B]v1.0.3[/B], you're up to date! Nice one.
+
+- [COLOR blue]NOVA[/COLOR] by Pangea
