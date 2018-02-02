@@ -1,7 +1,7 @@
 2
 ||| 
 [COLOR blue][B]NOVA Notifications[/B][/COLOR]
-[CR]
+[CR][/CR]
 [COLOR white][B]- WELCOME -[/B][/COLOR]
 
 Welcome to NOVA's [B]New Notification system[/B].
@@ -12,9 +12,3 @@ Alerts on new updates and information will pop-up regularly.
 - Redesigned the NOVA build, giving it a new look and feel.
 - Added [B]NOVA Notification[/B] system.
 - Clicking on either Movies or TV Shows will direct to the [B]Neptune Rising[/B] addon instead of [B]Covenant[/B].
-
-Your running NOVA [B]v1.0.3[/B], you're up to date! Nice one.
-
-
-
-- Pangea Team
