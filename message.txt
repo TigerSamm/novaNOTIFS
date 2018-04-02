@@ -1,7 +1,7 @@
 4
 ||| 
-[COLOR blue][B]NOVA Notifications[/B][/COLOR] [COLOR red]DO NOT IGNORE![/COLOR]
-[CR][/CR]
+[COLOR blue][B]NOVA Notifications[/B][/COLOR] [COLOR red][B]!DO NOT IGNORE![/B][/COLOR]
+[CR]
 [COLOR white][B]- !!!PLEASE CHANGE REPO LOCATION!!! -[/B][/COLOR]
 
 Home -> Submenu of NOVA Settings (Press left whilst hovering) 
@@ -12,6 +12,4 @@ NEW REPO: [B]http://archive.org/download/novawizard/[/B]  !!
 
 [COLOR white][B]- WHAT'S NEW IN v1.0.5 -[/B][/COLOR]
 
-- We have completely changed our repository location.
-- We have updated the sports menu, to include 'PureSports'.
-- We have redesigned the look of our icon and background.
+- We have completely changed our repository location. Please [B][COLOR red]change it asap[/COLOR][/B]
