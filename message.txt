@@ -1,15 +1,15 @@
 5
 ||| 
-[COLOR aqua][B]NOVA Notifications[/B][/COLOR] [COLOR red][B]!DO NOT IGNORE![/B][/COLOR]
+[COLOR aqua][B]NOVA Notifications[/B][/COLOR] [COLOR red][B]!!DO NOT IGNORE!![/B][/COLOR]
 [CR]
 [COLOR white][B]- !!!PLEASE CHANGE REPO LOCATION!!! -[/B][/COLOR]
 
+We have changed from a Wizard/Build to a Repository so the system is more streamlined and efficient.
+
 Home -> Submenu of NOVA Settings (Press left whilst hovering) 
 -> File Manager -> Hold .NOVA BUILD -> Edit Source 
--> [B]Change[/B] http://novabuild.tk [B]to [COLOR blue]http://archive.org/download/novawizard/[/COLOR][/B]
+-> [B]Change[/B] http://novabuild.tk [B]to [COLOR aqua]http://archive.org/download/novarepo/[/COLOR][/B]
 
-NEW REPO: [B]http://archive.org/download/novawizard/[/B]  !!
+NEW REPO: [B]http://archive.org/download/novarepo/[/B]  !!
 
-[COLOR white][B]- WHAT'S NEW IN v1.0.5 -[/B][/COLOR]
-
-- We have a new website for support and information: [B]https://goo.gl/ZkYVki[/B]
+Once you have changed the repo location, install it from a zip file, then install addons from the repository.
