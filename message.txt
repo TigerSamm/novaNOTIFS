@@ -1,6 +1,6 @@
-4
+5
 ||| 
-[COLOR blue][B]NOVA Notifications[/B][/COLOR] [COLOR red][B]!DO NOT IGNORE![/B][/COLOR]
+[COLOR aqua][B]NOVA Notifications[/B][/COLOR] [COLOR red][B]!DO NOT IGNORE![/B][/COLOR]
 [CR]
 [COLOR white][B]- !!!PLEASE CHANGE REPO LOCATION!!! -[/B][/COLOR]
 
@@ -12,5 +12,4 @@ NEW REPO: [B]http://archive.org/download/novawizard/[/B]  !!
 
 [COLOR white][B]- WHAT'S NEW IN v1.0.5 -[/B][/COLOR]
 
-- We have completely changed our repository location. Please [B][COLOR red]change it asap[/COLOR][/B]
-- We wish you all a joyful Easter.
+- We have a new website for support and information: [B]https://goo.gl/ZkYVki[/B]
