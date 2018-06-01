@@ -1,11 +1,10 @@
-7
+8
 ||| 
 [COLOR aqua][B]NOVA Notifications[/B][/COLOR]
 [CR]
 [COLOR white][B]- Update -[/B][/COLOR]
 
-This update improves your overall experience, introducing 'search' and new add-ons.
-Version: [B]1.0.6JUNE[/B]
+Major update for v.1.0.6 JUNE.
+Update via the submenu of 'NOVA Settings'
 
-To check if you are up-to-date, on the home screen, visit the [B]NOVA Settings[/B] submenu.
-If you are not up-to-date, click 'Update'. Then follow onscreen instructions.
+- Team Pangea
