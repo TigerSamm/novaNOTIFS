@@ -1,14 +1,11 @@
-6
+7
 ||| 
 [COLOR aqua][B]NOVA Notifications[/B][/COLOR]
 [CR]
-[COLOR white][B]- Have you changed the Repo location? -[/B][/COLOR]
+[COLOR white][B]- Update -[/B][/COLOR]
 
-We have changed from a Wizard/Build to a Repository so the system is more streamlined and efficient.
-Change the current Repo link in your file manager to [B]http://archive.org/download/novarepo/[/B]
+This update improves your overall experience, introducing 'search' and new add-ons.
+Version: [B]1.0.6JUNE[/B]
 
-Home -> Submenu of NOVA Settings (Press left whilst hovering) 
--> File Manager -> Hold .NOVA BUILD -> Edit Source 
--> [B]Change[/B] http://novabuild.tk [B]to [COLOR aqua]http://archive.org/download/novarepo/[/COLOR][/B]
-
-For a full list of instructions on how to install NOVA Repo, visit here: [B]https://goo.gl/ZkYVki[/B]
+To check if you are up-to-date, on the home screen, visit the [B]NOVA Settings[/B] submenu.
+If you are not up-to-date, click 'Update'. Then follow onscreen instructions.
