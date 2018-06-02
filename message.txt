@@ -1,10 +1,10 @@
-8
+9
 ||| 
 [COLOR aqua][B]NOVA Notifications[/B][/COLOR]
 [CR]
 [COLOR white][B]- Update -[/B][/COLOR]
 
-Major update for v.1.0.6 JUNE.
-Update via the submenu of 'NOVA Settings'
+Major update for v.1.0.7 JUNE.
+Update via the submenu of 'NOVA Settings'.
 
 - Team Pangea
