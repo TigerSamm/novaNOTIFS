@@ -1,10 +1,15 @@
-9
+10
 ||| 
 [COLOR aqua][B]NOVA Notifications[/B][/COLOR]
 [CR]
 [COLOR white][B]- Update -[/B][/COLOR]
 
-Major update for v.1.0.7 JUNE.
-Update via the submenu of 'NOVA Settings'.
+Major update for v.1.0.2 JULY.
+If you are still running v.1.0.2, from the home page go to [B]myNOVA[/B], press the down button to open the submenu, then click [B]NOVAUpdate[/B].
+
+[COLOR white][B]- What's new?[/B][/COLOR]
+
+All menu items have been replaced with the best build. Performance enhances. Fanart improvements.
+
 
 - Team Pangea
