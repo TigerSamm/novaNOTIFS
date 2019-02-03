@@ -1,15 +1,12 @@
-10
+11
 ||| 
 [COLOR aqua][B]NOVA Notifications[/B][/COLOR]
 [CR]
-[COLOR white][B]- Update -[/B][/COLOR]
+[COLOR white][B]- First time? -[/B][/COLOR]
 
-Major update for v.1.0.2 JULY.
-If you are still running v.1.0.2, from the home page go to [B]myNOVA[/B], press the down button to open the submenu, then click [B]NOVAUpdate[/B].
-
-[COLOR white][B]- What's new?[/B][/COLOR]
-
-All menu items have been replaced with the best build. Performance enhances. Fanart improvements.
-
+Welcome to NOVA by Pangea.
+- [B]novaSKIN[/B]: minimalistic and clean via Arctic: Zephyr!
+- [B]novaCARE[/B]: keep your build clean and up-to-date!
+- [B]novaNOTIFS[/B]: get updates on when you need to update!
 
 - Team Pangea
