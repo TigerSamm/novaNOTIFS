@@ -1,16 +1,12 @@
-12
+13
 ||| 
 [COLOR aqua][B]NOVA Notifications[/B][/COLOR]
 [CR]
 [COLOR white][B]- First time? -[/B][/COLOR]
 
 Welcome to NOVA by Pangea.
-- [B]novaSKIN[/B]: minimalistic and clean via Arctic: Zephyr!
-- [B]novaCARE[/B]: keep your build clean and up-to-date!
-- [B]novaNOTIFS[/B]: get updates on when you need to update!
-Videos: Ranked Best to Worse for Feb 2019.
-1. [B]Magic Dragon[/B]
-2. [B]Yoda[/B]
-3. [B]Exodus v18[/B]
+Your experience has been personalised to run smoothly.
+We suggest you use the application 'Magic Dragon' to run Movies.
+Try 'Yoda' if you're struggling, which is a fork of Exodus!
 
 - Team Pangea
